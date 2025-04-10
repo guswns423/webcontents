@@ -1,0 +1,45 @@
+#Aboutme {
+    color: brown;
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+p {
+    font-family: 휴먼편지체;
+    font-size: 1em;
+    text-indent: 1em;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#menu {
+    border: 1px dotted black;
+}
+
+h3 {
+    text-shadow: lightcoral 0px 0px 10px;
+}
+
+footer > div {
+    background-color: orange;
+    border-radius: 10px;
+    margin: 1px;
+    padding: 5px;
+    background-size: auto;
+    text-align: left;
+    text-indent: 1em;
+    box-sizing: border-box;
+}
+
+footer > div > a,
+footer > div > p {
+    margin: 10px 0;
+    padding: 0;
+    display: block;
+}
